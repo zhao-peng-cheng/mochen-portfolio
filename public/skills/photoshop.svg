@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <linearGradient id="ps-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#001E36"/>
+      <stop offset="100%" stop-color="#003A6B"/>
+    </linearGradient>
+  </defs>
+  <circle cx="50" cy="50" r="48" fill="url(#ps-bg)" stroke="#31A8FF" stroke-width="2"/>
+  <text x="50" y="62" font-family="Arial, sans-serif" font-size="36" font-weight="bold" fill="#31A8FF" text-anchor="middle">Ps</text>
+</svg>
