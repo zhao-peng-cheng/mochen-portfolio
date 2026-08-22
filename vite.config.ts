@@ -95,7 +95,7 @@ function videoStreamingPlugin() {
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/mochen-portfolio/',
+  base: '/portfolio/',
   plugins: [react(), videoStreamingPlugin()],
   server: {
     host: true,
